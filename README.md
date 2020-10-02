@@ -21,33 +21,34 @@
 1. Create a `.env` file in the project folder
 2. Copy content of `.env.example` to `.env`
 3. Execute `php artisan key:generate` to generate an application key (required for encryptation)
-4. Edit the `.env` as you wish. Then..
+4. Edit the `.env` as you wish.
 
-Install Composer dependencies
-`composer install`
+Install Composer dependencies: `composer install`
 
-Create and populate the database
-`php artisan migrate --seed`
+Create and populate the database: `php artisan migrate --seed`
 
-Install Npm dependencies
-`npm install`
+Serve Locally: `php artisan serve`
 
-Build JS once
-`npm run dev`
+Install Npm dependencies: `npm install`
 
-Serve JS as Live Browser
-`npm run watch`
+Build JS once: `npm run dev`
+
+Serve JS as Live Browser: `npm run watch`
 
 ### Credentials
 Admin Account: **admin@app.com / admin**
+
 Student Account: **student@app.com / student**
 
-*Feel free to edit the users you want in the application. Edit `database/seeds/UsersTableSeeder.php`.*
+*Feel free to edit the users you want in the application.
+Edit `database/seeds/UsersTableSeeder.php`.*
 
 ### Third Party
 **Iugu** - (Payment Provider in Brazil)[https://dev.iugu.com/docs/iugu-js]
 
 ### Author
 Marlon Alexandri Junges Ferreira
+
 ma.ferreira93@gmail.com
+
 Montreal, QC - CA
