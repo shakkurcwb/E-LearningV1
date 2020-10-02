@@ -1,0 +1,17 @@
+{
+    "/js/account/manage-availabilities.js": "/js/account/manage-availabilities.js",
+    "/js/client.js": "/js/client.js",
+    "/js/education/form-builder.js": "/js/education/form-builder.js",
+    "/js/education/schedule-sessions.js": "/js/education/schedule-sessions.js",
+    "/js/laravel.app.js": "/js/laravel.app.js",
+    "/css/oneui.css": "/css/oneui.css",
+    "/css/themes/amethyst.css": "/css/themes/amethyst.css",
+    "/css/themes/city.css": "/css/themes/city.css",
+    "/css/themes/flat.css": "/css/themes/flat.css",
+    "/css/themes/modern.css": "/css/themes/modern.css",
+    "/css/themes/smooth.css": "/css/themes/smooth.css",
+    "/js/merchant/subscribe-plan.js": "/js/merchant/subscribe-plan.js",
+    "/js/oneui.app.js": "/js/oneui.app.js",
+    "/js/pages/dashboard.js": "/js/pages/dashboard.js",
+    "/js/pages/live.js": "/js/pages/live.js"
+}

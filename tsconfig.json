@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "allowJs": true,
+        "jsx": "react",
+        "suppressImplicitAnyIndexErrors": true
+    },
+    "include": [
+        "resources/assets/js/react/**/**/*"
+    ],
+    "exclude": [
+        "**/*.spec.ts"
+    ]
+}

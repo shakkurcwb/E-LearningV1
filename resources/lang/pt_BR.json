@@ -1,0 +1,41 @@
+{
+    "FalaEducation is a cloud-based platform for communitary english learning":
+        "FalaEducation é uma plataforma baseada em nuvem para ensino comunitário do inglês",
+
+    "Sign In": "Entrar",
+
+    "Portuguese": "Português",
+    "English": "Inglês",
+    "French": "Francês",
+    "Spanish": "Espanhol",
+
+
+
+    "Hello!": "Olá!",
+    "Regards": "Saudações",
+    "Thanks for being part of our community.":
+        "Obrigado por fazer parte de nossa comunidade.",
+
+    "User Created": "Usuário Criado",
+    "Your account has been created. Please verify your email address or resent a verification mail.":
+        "Sua conta foi criada. Favor verifique seu e-mail ou reenvie um link de verificação.",
+    "Resent Verification Mail": "Reenviar E-mail de Verificação",
+
+    "Your account has been deleted. Hope you get back with us someday...":
+        "Sua conta foi excluída. Esperamos que você volte algum dia...",
+
+    "Verify Email Address": "Verificar Endereço de E-mail",
+    "Please click the button below to verify your email address.":
+        "Favor clique no botão abaixo para verificar seu endereço de e-mail.",
+    "If you did not create an account, no further action is required.":
+        "Se você não criou uma conta, nenhuma ação é necessária.",
+
+    "Reset Password Notification": "Notificação de Recuperação de Senha",
+    "You are receiving this email because we received a password reset request for your account.":
+        "Você esta recebendo este e-mail porque nos recebemos seu pedido de recuperação de conta.",
+    "Reset Password": "Recuperar Senha",
+    "This password reset link will expire in :count minutes.":
+        "Este link de recuperação de senha irá expirar em :count minutos.",
+    "If you did not request a password reset, no further action is required.":
+        "Se você nao requisitou a recuperação de senha, nenhuma ação é necessária."
+}
